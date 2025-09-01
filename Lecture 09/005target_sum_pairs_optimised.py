@@ -1,4 +1,4 @@
-# time : O(n^2)
+# time : O(n)
 # space: O(1)
 
 def target_sum_pair(arr:list[int], n:int, t:int)->int:
